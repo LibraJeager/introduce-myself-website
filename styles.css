@@ -1,0 +1,71 @@
+h1,
+h2,
+h3,
+h4 {
+  font-size: 24px;
+  text-shadow: 0 1px 0 #000;
+  color: #222;
+}
+
+h1 {
+  color: #caedff !important;
+}
+h2 {
+  color: #d8b4f8 !important;
+}
+h3 {
+  color: #ffc7ea !important;
+}
+
+
+.profile-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.section.gioithieu {
+  background: #f3fde8;
+  text-align: center;
+}
+.section.lienhe {
+  background: url("https://www.transparenttextures.com/patterns/diamond-upholstery.png");
+  background-repeat: repeat;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+th,
+td {
+  border: 1px solid #222;
+  padding: 8px;
+}
+
+nav {
+  margin-bottom: 16px;
+  text-align: center;
+}
+nav a {
+  color: #0b0848;
+  text-decoration: none;
+  margin: 0 16px;
+  font-weight: bold;
+}
+
+footer {
+  background: #d4f2f4;
+  color: #0b0848;
+  text-align: center;
+  padding: 8px 0;
+  margin-top: 24px;
+  font-size: 18px;
+}
+.form-group {   
+  margin-bottom: 18px;
+  gap: 16px;
+}
+
